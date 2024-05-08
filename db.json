@@ -83,6 +83,13 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "amount": 0,
+      "category": "",
+      "date": "2019-12-11",
+      "description": "lyft ride",
+      "id": 13
     }
   ]
 }
